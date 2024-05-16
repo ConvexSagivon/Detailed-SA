@@ -1,25 +1,30 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"name": "Kraal",
+		"replaces": "Stable",
+		"uniqueTo": "Boer Republics",
+		"cost": 5,
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Hoerskool",
+		"replaces": "Library",
+		"uniqueTo": "Boer Republics",
+		"cost": 10,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"science": 2,
+		"uniques": ["+2 Science per 3 population in this city"],
+		"requiredTech": "Writing",
+	},
+	{
+		"name": "Landbouskool",
+		"replaces": "National College",
+		"uniqueTo": "Boer Republics",
+		"cost": 80,
+		"happiness": 6,
+		"science": 6,
+		"production": 2,
+		"requiredBuilding": ["Hoerskool constructed in all non-puppeted cities"],
+		"requiredTech": "Philosophy",
 	}
 ]
