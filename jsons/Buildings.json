@@ -31,3 +31,24 @@
 		"requiredTech": "Philosophy",
 	}
 ]
+[
+	{
+		"name": "Ikhanda",
+		"replaces": "Barracks",
+		"uniqueTo": "Zulu Kingdom",
+		"cost": 75,
+		"happiness": 16,
+		"requiredTech": "Bronze Working",
+		"unique": "All military units start with 80 experience in this city",
+	},
+	{
+		"name" "Royal Palace",
+		"replaces": "Castle",
+		"cost": 160,
+		"happiness": 30,
+		"unique": ["City health +40","City strength +20"],
+		"requiredTech": "Chivalry",
+		"requiredBuilding": "Walls"
+	}
+]
+		
