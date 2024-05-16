@@ -1,18 +1,17 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Boer Republics",
+		"leaderName": "Gerrit Jacobus van Niekerk",
+		"adjective": ["boer"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntro": "We are the boers! The voortrekkers of Southern Africa, may our trek lie with you.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have played around for far too long!",
+		"attacked": "Oh... us? You will regret this.",
+		"defeated": "We have had an imperial lesson! May you prosper my friend! Live long and prosper!",
+		"introduction": "Goeie more!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,15 +23,54 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Well done! My our peace last as long as the Vaal!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,132,0],
+		"innerColor": [0,51,153],
+		"cities": ["Graaff-Reinet","Swellendam","Kaapstad","Bloemfontein","Vryheid","Vryburg","Rondebosch","Paarl","Wynberg","Bloemhof","Potschefstroom",
+			"De Aar","Vereeniging","Waterkloof","Hartebeespoort","Kloof","Karkloof","Vaal","Oranje","Orania","Olifantshoek","Franschhoek","Villiersdorp",
+			"Kleinmond","Middelberg","Noupoort","Burgersdorp","Brandvlei","Vanwyksvlei","Vredendal","Steinkopf","Welkom","Pofadder","Springbok","Vioolsdrif",
+			"Windhoek","Hermanus","Bredasdorp","Kokstad","Louis Trichardt","Vanderbijlpark","Postmasburg","Hofmeyr","Jansenville","Steytlerville","Kruidfontein",
+			"Leeu Gamka","Oudtshoom","De Rust","Dysselsdorp","Brakrivier","Van Wyksdorp","Gansbaai","Langebaan", "Cianwilliam","Piketberg","Keimoes","Kenhardt"]
+		
 	}
 ]
+[
+	{
+		"name": "Zulu Kingdom",
+		"leaderName": "Shaka Zulu",
+		"adjective": "zulu",
+		"startBias": "Plains",
+		"preferredVictoryType": "Domination",
+
+		"startIntro": "The most successful African warrior kingdom in history! You have made the right choice!,
+		]
+		"declaringWar": "Bayede! Bayede! Your existence is in the way of the Zulu kingdom's right!",
+		"attacked": "Hawu! Bafune impi? Uzothola impi! Imfula yami yizobulala amatshe akho!",
+		"defeated": "Haibo! They have defeated us?",
+		"introduction": "Sawubona!",
+
+		"neutralHello": ["Sawubona!","How are you doing?"],
+		"neutralLetsHearIt": ["Chaza","Go on","Don't waste my time, go on!"],
+		"neutralNo": ["Cha","No","You have seriously expected a 'yes' from that?"],
+		"neutralYes": ["Yebo!","Yes","It is fine, we have agreed"],
+
+		"hateHello": "What is it now!",
+		"hateLetsHearIt": "Don't waste my time, go on!",
+		"hateNo": ["Cha!","Cha, now leave!","c. c. c. c. c. cha! Leave as alone now!"],
+		"hateYes": "Very well",
+
+		"afterPeace": "Your draw is a loss for me, don't think your power exceedes mine!. Amabutho ami azobulala amabutho abo. Do not get too comfortable!",
+		"tradeRequest": "We offer you this offering",
+
+		"outerColor": [255,255,255],
+		"innerColor": [119,82,59],
+		"cities": ["Ulundi","uMgungumdlovu","KwaDukuza","uMpumalanga","Eshowe","eThekwini","Ixopo","Nkandla","Mtunzini","Umzimkhulu","Nkwazela","Thukela","Inanda","Umzinto","uMlazi",
+			"Enyokeni","Maphumulo","Umphumulo","Mbongolwane","KwaGingindlovu","Nxamalala","Babanango","Ezakheni","Ekuvukeni","Ngwelezane","Ntambanana","Nhlabane",
+			"Mtubatuba","Mafakathini","KwaMashu","Embo","Ntsikeni","Mahlabathini","Mpophomeni","Maqongqo","Nkanyezini","Ximba","Mkhomazi","Thongathi","Iqadi",
+			"uMhlanga","uMdloti","oThongathi","Ozwathini","Amanzimtoti","Mtshezi","uMgungumdlovana","Ndwendwe","Mqatsheni","Impendle","Ncwadi","Mancana","Shayamoya"]
+		
+		
+		
+ 
