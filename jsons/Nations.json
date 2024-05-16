@@ -45,7 +45,7 @@
 		"preferredVictoryType": "Domination",
 
 		"startIntro": "The most successful African warrior kingdom in history! You have made the right choice!,
-		]
+	
 		"declaringWar": "Bayede! Bayede! Your existence is in the way of the Zulu kingdom's right!",
 		"attacked": "Hawu! Bafune impi? Uzothola impi! Imfula yami yizobulala amatshe akho!",
 		"defeated": "Haibo! They have defeated us?",
@@ -70,7 +70,8 @@
 			"Enyokeni","Maphumulo","Umphumulo","Mbongolwane","KwaGingindlovu","Nxamalala","Babanango","Ezakheni","Ekuvukeni","Ngwelezane","Ntambanana","Nhlabane",
 			"Mtubatuba","Mafakathini","KwaMashu","Embo","Ntsikeni","Mahlabathini","Mpophomeni","Maqongqo","Nkanyezini","Ximba","Mkhomazi","Thongathi","Iqadi",
 			"uMhlanga","uMdloti","oThongathi","Ozwathini","Amanzimtoti","Mtshezi","uMgungumdlovana","Ndwendwe","Mqatsheni","Impendle","Ncwadi","Mancana","Shayamoya"]
-		
+	}
+]
 		
 		
  
