@@ -13,3 +13,38 @@
 		"promotions": ["Logistics","Accuracy I"],
 	}
 ]
+[
+	{
+		"name": "Impi",
+		"unitType": "Sword",
+		"uniqueTo": "Zulu Kingdom",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 20,
+		"range": 1,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Assegai"
+		"unitType": "Sword",
+		"uniqueTo": "Zulu Kingdom",
+		"replaces": "Spearman",
+		"movement": 1,
+		"strength": 14,
+		"range": 1,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+	},
+	{
+		"name": "Amabutho"
+		"unitType": "Sword"
+		"uniqueTo": "Zulu Kingdom",
+		"replaces": "Knight",
+		"movement": 2,
+		"strength": 35,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Chivalry".
+	}
+]
