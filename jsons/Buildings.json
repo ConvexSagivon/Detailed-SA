@@ -5,7 +5,7 @@
 		"uniqueTo": "Boer Republics",
 		"cost": 100,
 		"maintenance": 1,
-		"unique": [+15% Production when constructing Mounted units in this city],
+		"unique": ["+15% Production when constructing Mounted units in this city"],
 		"requiredResource": ["Horses","Cattle","Sheep"],
 		"requiredTech": "Horseback Riding"
 	},
