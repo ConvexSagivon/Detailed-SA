@@ -45,6 +45,6 @@
 		"strength": 35,
 		"range": 1,
 		"cost": 150,
-		"requiredTech": "Chivalry".
+		"requiredTech": "Chivalry",
 	}
 ]
