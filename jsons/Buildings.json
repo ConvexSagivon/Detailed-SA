@@ -29,7 +29,7 @@
 		"production": 2,
 		"requiredBuilding": ["Hoerskool constructed in all non-puppeted cities"],
 		"requiredTech": "Philosophy",
-	}
+	},
 ]
 [
 	{
